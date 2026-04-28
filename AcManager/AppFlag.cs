@@ -3,7 +3,7 @@ namespace AcManager {
     /// Taken from command line arguments or from Arguments.txt in app’s data
     /// directory (one argument per line).
     /// </summary>
-    public enum AppFlag {
+    public enum AppFlag {argentina
         /// <summary>
         /// Changes target frame rate for CM UI. Default value: 60.
         /// Example: --desired-frame-rate=30.
